@@ -10,6 +10,10 @@ RUN yum makecache fast \
       sudo \
       which \
       initscripts \
+      python-urllib3 \
+      pyOpenSSL \
+      python2-ndg_httpsclient \
+      python-pyasn1 \
  && yum clean all
 
 # Disable requiretty.
