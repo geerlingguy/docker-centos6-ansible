@@ -1,6 +1,6 @@
 # CentOS 6 Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-centos6-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-centos6-ansible/)
+[![Build Status](https://travis-ci.org/geerlingguy/docker-centos6-ansible.svg?branch=master)](https://travis-ci.org/geerlingguy/docker-centos6-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/geerlingguy/docker-centos6-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/geerlingguy/docker-centos6-ansible/)
 
 CentOS 6 Docker container for Ansible playbook and role testing.
 
